@@ -1,12 +1,5 @@
 ### Hi there 👋, I'm Tony!
 
-🌱 I’m currently learning about
-- [COSMOS IBC](https://cosmos.network/)
-- [DALL-E](https://openai.com/dall-e-2/)
-- Distributed Energy Grid
-- Virality Engineering
-- React & Rust
-
 📫 How to reach me
 - Email: [kamikariat@gmail.com](mailto:kamikariat@gmail.com)
 - LinkedIn: [Tony Kam](https://www.linkedin.com/in/tonyshekkam/)
