@@ -1,12 +1,5 @@
 ### Hi there 👋, I'm Tony!
 
-📫 How to reach me
-- Email: [kamikariat@gmail.com](mailto:kamikariat@gmail.com)
-- LinkedIn: [Tony Kam](https://www.linkedin.com/in/tonyshekkam/)
-- Twitter: [@kamikariat](https://twitter.com/kamikariat)
-
-
-
 <!--
 **kamikariat/kamikariat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
